@@ -34,6 +34,7 @@ Este proyecto busca aportar evidencia útil para la toma de decisiones en salud 
 
 ## 📬 Contacto
 
-Para dudas, sugerencias o colaboración, puedes escribir a [tu correo aquí] o abrir un issue en este repositorio.
+Para dudas, sugerencias o colaboración, puedes escribir a andres_fer.lopez@uao.edu.co edgar_adr.ortiz@uao.edu.co harold_wil.victoria@uao.edu.co
+monica_and.giraldo@uao.edu.co dilmer.gutierrez@uao.edu.co o abrir un issue en este repositorio.
 
 ---
